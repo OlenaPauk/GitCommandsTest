@@ -8,3 +8,6 @@ if(true){
     return 'Hello'
 }
 
+else{
+    return null
+}
