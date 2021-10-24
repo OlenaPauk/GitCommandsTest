@@ -1,3 +1,6 @@
+
+let a = 6;
+console.log(a)
 console.log('Hello Branch1');
 console.log('test1 VS')
 console.log('test 1 GitHub');
@@ -11,3 +14,4 @@ if(true){
 else{
     return null
 }
+
