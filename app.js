@@ -4,4 +4,7 @@ console.log('test 1 GitHub');
 if(true){
     console.log('111111')
 }
+if(true){
+    return 'Hello'
+}
 
