@@ -1,18 +1,18 @@
 
-let a = 6;
-console.log(a)
+let a = 3;
+console.log(a,a)
 let b = 7;
 console.log(b);
-console.log('Hello Branch1');
+console.log('Hello Branch1qq');
 console.log('test1 VS')
-console.log('test 1 GitHub');
+console.log('test 1 GitHubqq');
 let q1 = 9;
 if(true){
-    console.log('111111')
+    console.log('111111qq')
 }
 if(true){
-    console.log('222')
-    return 'Hello'
+    console.log('222qq')
+    return 'Hellqqo'
 }
 
 else{
@@ -20,5 +20,5 @@ else{
 }
 
 let aa = 0;
-let bb = 9;
+let bb = 2219;
 
