@@ -6,6 +6,10 @@ console.log('test 1 GitHub');
 if(true){
     console.log('111111')
 }
+if(true){
+    console.log('222')
+    return 'Hello'
+}
 
 else{
     return null
