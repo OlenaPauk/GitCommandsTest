@@ -5,3 +5,6 @@ if(true){
     console.log('111111')
 }
 
+else{
+    return null
+}
