@@ -11,6 +11,7 @@ if(true){
     console.log('111111')
 }
 if(true){
+    console.log('222')
     return 'Hello'
 }
 
